@@ -1,3 +1,12 @@
+<<<<<<< HEAD:homework1/homework1/README.md
+
+#Project Purpose 
+
+
+
+To compare a portfolio with peer funds, analyze market and credit risks, and optimize allocations for better risk-adjusted returns.
+
+=======
 \# Bootcamp Repository
 
 \## Folder Structure
@@ -62,3 +71,4 @@ Goal 6: Reporting & Documentation (Stage #6) - README.md, Jupyter Notebook with 
 - ...
 ## Repo Plan
 /data/, /src/, /notebooks/, /docs/ ; cadence for updates
+>>>>>>> 90b8d8e (Organize homeworks: separate hw0, hw1, hw2; move README and requirements to root):homework/homework1/homework1/README.md
