@@ -1,34 +1,3 @@
-<<<<<<< HEAD:homework1/homework1/README.md
-
-#Project Purpose 
-
-
-
-To compare a portfolio with peer funds, analyze market and credit risks, and optimize allocations for better risk-adjusted returns.
-
-=======
-\# Bootcamp Repository
-
-\## Folder Structure
-
-\- \*\*homework/\*\* → All homework contributions will be submitted here.
-
-\- \*\*project/\*\* → All project contributions will be submitted here.
-
-\- \*\*class\_materials/\*\* → Local storage for class materials. Never pushed to
-
-GitHub.
-
-\## Homework Folder Rules
-
-\- Each homework will be in its own subfolder (`homework0`, `homework1`, etc.)
-
-\- Include all required files for grading.
-
-\## Project Folder Rules
-
-\- Keep project files organized and clearly named
-
 # Project Title - Portfolio Comparison and Optimization
 **Stage:** Problem Framing & Scoping (Stage 01)
 ## Problem Statement
